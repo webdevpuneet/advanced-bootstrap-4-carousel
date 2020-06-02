@@ -1,2 +1,2 @@
-# advanced-bootstrap-4-carousel
+# Advanced Bootstrap-4 Carousel
 Bootstrap 4 carousel with added features
